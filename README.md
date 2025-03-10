@@ -52,7 +52,7 @@ The final dashboard consolidates the pivot tables into an interactive report wit
 
 ### **📸 Dashboard Preview**  
 *(Refer to the attached screenshot for a preview of the interactive dashboard.)*  
-
+(https://github.com/shrinemary/bike_sales/blob/main/Bike_sales_dashboard_SS.png)
 ---
 
 ### **🛠️ Tools & Technologies Used**  
