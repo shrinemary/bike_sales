@@ -9,6 +9,8 @@ The dashboard allows users to **filter, explore, and analyze key trends** in bik
 
 ### **📂 About the Dataset**  
 The dataset contains records related to **bike purchases**, including demographic details like gender, age, marital status, education level, profession, and income. It also includes behavioral attributes such as **commute distance and number of children**, helping to analyze how these factors influence purchasing decisions.  
+[View Dataset](Bike_sales.xlsx)
+
 
 ---
 
@@ -52,7 +54,8 @@ The final dashboard consolidates the pivot tables into an interactive report wit
 
 ### **📸 Dashboard Preview**  
 *(Refer to the attached screenshot for a preview of the interactive dashboard.)*  
-(https://github.com/shrinemary/bike_sales/blob/main/Bike_sales_dashboard_SS.png)
+![Bike Sales Dashboard](Bike_sales_dashboard_SS.png)
+
 ---
 
 ### **🛠️ Tools & Technologies Used**  
@@ -71,6 +74,5 @@ The final dashboard consolidates the pivot tables into an interactive report wit
 
 ### **👩‍💻 Author**  
 **Shrine Mary Reji**  
-📧 [Your Email] | 🔗 [LinkedIn Profile]  
+📧 [Email](maryshrine18@gmail.com) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shrinemary-analyst/)  
 
-This documentation ensures clarity and a **professional structure** for stakeholders, making it easy to understand and utilize the project. Let me know if you'd like further refinements! 😊
